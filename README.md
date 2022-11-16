@@ -1,5 +1,6 @@
 # A Diabetic Diet Suggester and Appointment Scheduler Chatbot using Artificial Intelligence and Cloud 
 ●	This project intends to guide the diabetic patients to plan their diets and schedule an appointment to the clinics nearby. 
+
 ●	Developed an ML algorithm to detect the type of diabetes and integrate into AI based chatbot and deploy website live with CI-CD pipelines managed via IBM Cloud and Netlify.
 
 
